@@ -7,3 +7,7 @@
 20:40 - 24/06/2021 - atrasado
 00:20 - 25/06/2021 - fuck
 00:48 - 25/06/2021 - 1hr 6min / 95%
+20:35 - 26/06/2021 - Eu gostei? Eh. 
+Eu agora conheço algo de Node.js, algumas coisas eu já conhecia, por causa de um curso da Rocketseat e de mexer com EntityFramework com ASP.NET Core MVC e Blazor no estágio que eu não completei. 
+Minha primeira vez em um bootcamp(?) ou sei lá, evento de programação. 
+Passei raiva mas poderia ter sido pior. Agora eu tô na DIO num Bootcamp de Mobile Developer. Ore por mim.
